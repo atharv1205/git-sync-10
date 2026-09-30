@@ -1,3 +1,5 @@
 hello from origin
 
 modified a from origin
+
+a get's updated after conflicts
